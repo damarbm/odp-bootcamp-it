@@ -14,6 +14,6 @@ export default class Animal {
   }
 
   get isAdult() {
-    return this.age > 17;
+    return this.age > 18;
   }
 }
